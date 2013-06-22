@@ -1,0 +1,13 @@
+{
+  "name": "print",
+  "version": "0.0.0",
+  "author": "Eldar Gabdullin <eldargab@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eldargab/print.js"
+  },
+  "dependencies": {
+    "escape-html": "*"
+  },
+  "license": "MIT"
+}
